@@ -8,7 +8,7 @@
    - cd alcImdb && mkdir movie_data
    - for split in train test; do for sentiment in pos neg; do for file in $split/$sentiment/*; do cat $file >> movie_data/full_${split}.txt; echo >>                             movie_data/full_${split}.txt; done; done; done;
 
-### - Locate the following code in the program & replace the URL with the location of your full_train.txt and full_test.txt files. 
+### - Locate the following code in the program & replace the URL with the location of your full_train.txt and full_test.txt files in your desktop.
    ```python
    for line in open('C:/Users/kurti/Desktop/aclImdb/movie_data/full_train.txt', encoding='utf-8'):
     reviews_train.append(line.strip())
@@ -18,4 +18,6 @@
     reviews_test.append(line.strip())
    ```
 ### - Run the program & enjoy. 
+
 ![follow me](https://img.shields.io/github/followers/kurtina09?label=Kurtina09&style=social)
+![follow me2](https://img.shields.io/github/followers/illiquid47?label=illiquid47&style=social)
