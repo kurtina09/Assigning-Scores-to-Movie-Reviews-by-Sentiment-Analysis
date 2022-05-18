@@ -16,7 +16,7 @@
    for line in open('C:/Users/kurti/Desktop/aclImdb/movie_data/full_test.txt', encoding='utf-8'):
     reviews_test.append(line.strip())
    ```
-   After changing the URL, double check the slashes. all of the slashes must be facing '/'.
+   **After changing the URL, double check the slashes. all of the slashes must be facing '/'.**
 ### - Install NLTK (pip install nltk), Scikit (pip install -U scikit-learn)
 ### - Run the program & enjoy. 
 
