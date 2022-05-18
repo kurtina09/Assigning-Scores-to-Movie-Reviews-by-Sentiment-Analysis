@@ -19,5 +19,5 @@
    ```
 ### - Run the program & enjoy. 
 
-created by: ![follow me](https://img.shields.io/github/followers/kurtina09?label=Kurtina09&style=social) | 
+created by: ![follow me](https://img.shields.io/github/followers/kurtina09?label=Kurtina09&style=social) _
 ![follow me2](https://img.shields.io/github/followers/illiquid47?label=illiquid47&style=social)
