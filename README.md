@@ -16,7 +16,7 @@
    for line in open('C:/Users/kurti/Desktop/aclImdb/movie_data/full_test.txt', encoding='utf-8'):
     reviews_test.append(line.strip())
    ```
-### - Install NLTK(pip install nltk), Scikit (pip install -U scikit-learn)
+### - Install NLTK (pip install nltk), Scikit (pip install -U scikit-learn)
 ### - Run the program & enjoy. 
 
 created by: ![follow me](https://img.shields.io/github/followers/kurtina09?label=Kurtina09&style=social) _
