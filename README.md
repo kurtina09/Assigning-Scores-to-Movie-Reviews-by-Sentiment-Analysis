@@ -19,5 +19,5 @@
    ```
 ### - Run the program & enjoy. 
 
-![follow me](https://img.shields.io/github/followers/kurtina09?label=Kurtina09&style=social)
+![follow me](https://img.shields.io/github/followers/kurtina09?label=Kurtina09&style=social) | 
 ![follow me2](https://img.shields.io/github/followers/illiquid47?label=illiquid47&style=social)
