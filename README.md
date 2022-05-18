@@ -1,11 +1,11 @@
 # **How to run our program:**
 
 ### - Download the dataset from [IMDb Reviews](https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz) 
-### - Unpack and Merge the dataset
-   a. Move the downloaded tar.gz file into your desired directory where you will be accessing it from. To make this step easier, we recommend using desktop directory
-   b. Open a terminal where you stored the tar.gz file. Please double check that the terminal is opened on the correct directory. If not, navigate to the directory              where you stored the tar.gz file by using 'cd' command. 
-   c. gunzip -c aclImdb_v1.tar.gz | tar xopf -
-   d. cd alcImdb && mkdir movie_data
-   e. for split in train test; do for sentiment in pos neg; do for file in $split/$sentiment/*; do cat $file >> movie_data/full_${split}.txt; echo >>                             movie_data/full_${split}.txt; done; done; done;
+### - Move the downloaded tar.gz file into your desired directory where you will be accessing it from. To make this step easier, we recommend using desktop directory
+### - Open a terminal where you stored the tar.gz file. Please double check that the terminal is opened on the correct directory. If not, navigate to the directory              where you stored the tar.gz file by using 'cd' command. Run the following command in your terminal:
+   - gunzip -c aclImdb_v1.tar.gz | tar xopf -
+   - cd alcImdb && mkdir movie_data
+   - for split in train test; do for sentiment in pos neg; do for file in $split/$sentiment/*; do cat $file >> movie_data/full_${split}.txt; echo >>                             movie_data/full_${split}.txt; done; done; done;
 
-![follow me](https://img.shields.io/github/followers/kurtina09?style=social)
+
+![follow me](https://img.shields.io/github/followers/kurtina09?label=Kurtina09&style=social)
