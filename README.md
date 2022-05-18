@@ -2,7 +2,7 @@
 
 ## How to run our program:
 
-1. Download the dataset from IMDb [Reviews](https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz) 
+1. Download the dataset from [IMDb Reviews](https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz) 
 2. Unpack and Merge the dataset
     a. Move the downloaded tar.gz file into your desired directory where you will be accessing it from. To make this step easier, we recommend using desktop directory
     b. Open a terminal where you stored the tar.gz file. Please double check that the terminal is opened on the correct directory. If not, navigate to the directory              where you stored the tar.gz file by using 'cd' command. 
